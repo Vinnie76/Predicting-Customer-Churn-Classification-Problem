@@ -1,6 +1,6 @@
 # Predicting-Customer-Churn-Classification-Problem
 In this project, we aim to find the likelihood of a customer leaving the organization, the key indicators of churn as well as the retention strategies that can be implemented to avert this problem.
-# Classification -- Predicting Customer Churn
+
 
 ## Introduction
 
@@ -14,9 +14,7 @@ If we could figure out why a customer leaves and when they leave with
 reasonable accuracy, it would immensely help the organization to
 strategize their retention initiatives manifold.
 
-In this project, we aim to find the likelihood of a customer leaving the
-organization, the key indicators of churn as well as the retention
-strategies that can be implemented to avert this problem.
+
 
 ## Data Understanding
 
